@@ -1,0 +1,18 @@
+
+Abdlrhman Route
+2:24 AM (8 hours ago)
+to me
+
+p5
+Phones and qualifications are multi value attribute that mapped on other table
+
+p4
+Ternary relationship has wrong mapping
+
+p3
+for musician at album has song pk is song
+
+Take care of the name of the tables
+thanks.
+
+On Sat, Nov 9, 2024 at 7:28 PM Beshoy William <beshoyw057@gmail.com> wrote:
